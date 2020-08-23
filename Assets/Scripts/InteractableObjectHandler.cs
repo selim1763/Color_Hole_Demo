@@ -15,6 +15,7 @@ public class InteractableObjectHandler : MonoBehaviour
     private GameManager gameManager;
     private Transform holeCenterPoint;
     private Rigidbody rb;
+    private Collider col;
 
     private bool isObstacle;
     private bool isAlive;
@@ -33,6 +34,7 @@ public class InteractableObjectHandler : MonoBehaviour
         gameManager = GameObject.FindWithTag("GameManager").GetComponent<GameManager>();
         holeCenterPoint = GameObject.FindWithTag("HoleCenterPoint").transform;
         rb = GetComponent<Rigidbody>();
+        col = GetComponent<Collider>();
 
         layerFallingObject = LayerMask.NameToLayer("FallingObject");
         layerDontRender = LayerMask.NameToLayer("DoNotRender");
@@ -57,18 +59,19 @@ public class InteractableObjectHandler : MonoBehaviour
         }
 
         Vector3 dir = (holeCenterPoint.position - rb.position).normalized;
-        float diff = Vector3.Distance(holeCenterPoint.position, rb.position);
+        Vector3 adjPos = new Vector3(transform.position.x, transform.position.y - col.bounds.extents.y, transform.position.z);
+        float diff = Vector3.Distance(holeCenterPoint.position, adjPos);
 
-        rb.AddForce(dir, ForceMode.Impulse);
+        rb.AddForce(Vector3.down * 8f + dir * 4f, ForceMode.Force);
 
-        if (diff < 1.5f)
-        {
-            rb.AddForce(dir * 5f, ForceMode.VelocityChange);
+        if (diff < 1.2f)
+         {
+            rb.AddForce(Vector3.down * 15f, ForceMode.VelocityChange);
             gameObject.layer = layerFallingObject;
             state = State.Falling;
             
             gameManager.OnObjectFall(isObstacle);
-        }
+         }
     }
 
     private void Update()

@@ -61,7 +61,7 @@ GameObject:
   - component: {fileID: 2277699965083084539}
   m_Layer: 11
   m_Name: Cube (162)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -168,7 +168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &481081470288335211
 GameObject:
   m_ObjectHideFlags: 0
@@ -292,7 +291,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &715822547747404819
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,7 +414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &760450087634153642
 GameObject:
   m_ObjectHideFlags: 0
@@ -433,7 +430,7 @@ GameObject:
   - component: {fileID: 760450087634153643}
   m_Layer: 11
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -540,7 +537,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &1011629962443468049
 GameObject:
   m_ObjectHideFlags: 0
@@ -557,7 +553,7 @@ GameObject:
   - component: {fileID: 2407848979498013074}
   m_Layer: 11
   m_Name: Cube (159)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -664,7 +660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &1146576608925124237
 GameObject:
   m_ObjectHideFlags: 0
@@ -681,7 +676,7 @@ GameObject:
   - component: {fileID: 8450214306475469160}
   m_Layer: 11
   m_Name: Cube (183)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -788,7 +783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &1425818151108026032
 GameObject:
   m_ObjectHideFlags: 0
@@ -805,7 +799,7 @@ GameObject:
   - component: {fileID: 1644195251260412984}
   m_Layer: 11
   m_Name: Cube (168)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -912,7 +906,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &1465281439994973745
 GameObject:
   m_ObjectHideFlags: 0
@@ -929,7 +922,7 @@ GameObject:
   - component: {fileID: 2591613855530001773}
   m_Layer: 11
   m_Name: Cube (178)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1036,7 +1029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &1579963400991826540
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,7 +1045,7 @@ GameObject:
   - component: {fileID: 7597148348374720803}
   m_Layer: 11
   m_Name: Cube (169)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1160,7 +1152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2047123444128719424
 GameObject:
   m_ObjectHideFlags: 0
@@ -1177,7 +1168,7 @@ GameObject:
   - component: {fileID: 4074448628962622935}
   m_Layer: 11
   m_Name: Cube (172)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1284,7 +1275,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2111824574242568879
 GameObject:
   m_ObjectHideFlags: 0
@@ -1301,7 +1291,7 @@ GameObject:
   - component: {fileID: 5726798395377357098}
   m_Layer: 11
   m_Name: Cube (160)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1408,7 +1398,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2114918665253892683
 GameObject:
   m_ObjectHideFlags: 0
@@ -1425,7 +1414,7 @@ GameObject:
   - component: {fileID: 1809161472257465709}
   m_Layer: 11
   m_Name: Cube (161)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1532,7 +1521,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2227351893051060564
 GameObject:
   m_ObjectHideFlags: 0
@@ -1656,7 +1644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2500451737153620463
 GameObject:
   m_ObjectHideFlags: 0
@@ -1673,7 +1660,7 @@ GameObject:
   - component: {fileID: 2394689989522092578}
   m_Layer: 11
   m_Name: Cube (166)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1780,7 +1767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2578654773278364160
 GameObject:
   m_ObjectHideFlags: 0
@@ -1904,7 +1890,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2675431415279981505
 GameObject:
   m_ObjectHideFlags: 0
@@ -1921,7 +1906,7 @@ GameObject:
   - component: {fileID: 5658735441065332791}
   m_Layer: 11
   m_Name: Cube (181)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2028,7 +2013,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2811095970044941050
 GameObject:
   m_ObjectHideFlags: 0
@@ -2045,7 +2029,7 @@ GameObject:
   - component: {fileID: 6343073094668668096}
   m_Layer: 11
   m_Name: Cube (175)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2152,7 +2136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2819009887342492554
 GameObject:
   m_ObjectHideFlags: 0
@@ -2169,7 +2152,7 @@ GameObject:
   - component: {fileID: 2723415590007258891}
   m_Layer: 11
   m_Name: Cube (167)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2276,7 +2259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &2910236316668895438
 GameObject:
   m_ObjectHideFlags: 0
@@ -2400,7 +2382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &3281632011351887207
 GameObject:
   m_ObjectHideFlags: 0
@@ -2417,7 +2398,7 @@ GameObject:
   - component: {fileID: 671269336494225728}
   m_Layer: 11
   m_Name: Cube (179)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2524,7 +2505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &3687607265630629013
 GameObject:
   m_ObjectHideFlags: 0
@@ -2648,7 +2628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &3772852877227797482
 GameObject:
   m_ObjectHideFlags: 0
@@ -2665,7 +2644,7 @@ GameObject:
   - component: {fileID: 6387854293393452385}
   m_Layer: 11
   m_Name: Cube (157)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2772,7 +2751,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &3834199308810083487
 GameObject:
   m_ObjectHideFlags: 0
@@ -2789,7 +2767,7 @@ GameObject:
   - component: {fileID: 6529969629332031826}
   m_Layer: 11
   m_Name: Cube (164)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2896,7 +2874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &3933173019098304533
 GameObject:
   m_ObjectHideFlags: 0
@@ -3020,7 +2997,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4023034755161991037
 GameObject:
   m_ObjectHideFlags: 0
@@ -3037,7 +3013,7 @@ GameObject:
   - component: {fileID: 1063634263763958121}
   m_Layer: 11
   m_Name: Cube (171)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3144,7 +3120,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4198493662519464791
 GameObject:
   m_ObjectHideFlags: 0
@@ -3161,7 +3136,7 @@ GameObject:
   - component: {fileID: 6646104859785640211}
   m_Layer: 11
   m_Name: Cube (180)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3268,7 +3243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4337525055097955087
 GameObject:
   m_ObjectHideFlags: 0
@@ -3392,7 +3366,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4441051915522948079
 GameObject:
   m_ObjectHideFlags: 0
@@ -3409,7 +3382,7 @@ GameObject:
   - component: {fileID: 6335601945349121790}
   m_Layer: 11
   m_Name: Cube (174)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3516,7 +3489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4495610968911794952
 GameObject:
   m_ObjectHideFlags: 0
@@ -3640,7 +3612,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4501356919156301049
 GameObject:
   m_ObjectHideFlags: 0
@@ -3764,7 +3735,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4533938716804815782
 GameObject:
   m_ObjectHideFlags: 0
@@ -3781,7 +3751,7 @@ GameObject:
   - component: {fileID: 7089784249254966889}
   m_Layer: 11
   m_Name: Cube (153)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3888,7 +3858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &4951823556113424570
 GameObject:
   m_ObjectHideFlags: 0
@@ -3905,7 +3874,7 @@ GameObject:
   - component: {fileID: 3314901569321217701}
   m_Layer: 11
   m_Name: Cube (176)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4012,7 +3981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &5189927004786199878
 GameObject:
   m_ObjectHideFlags: 0
@@ -4029,7 +3997,7 @@ GameObject:
   - component: {fileID: 3147849947350044053}
   m_Layer: 11
   m_Name: Cube (182)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4136,7 +4104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &5322142622905342311
 GameObject:
   m_ObjectHideFlags: 0
@@ -4260,7 +4227,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &5492145580829744039
 GameObject:
   m_ObjectHideFlags: 0
@@ -4277,7 +4243,7 @@ GameObject:
   - component: {fileID: 8661482135993097070}
   m_Layer: 11
   m_Name: Cube (170)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4384,7 +4350,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6025884278022264321
 GameObject:
   m_ObjectHideFlags: 0
@@ -4508,7 +4473,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6084073331753960698
 GameObject:
   m_ObjectHideFlags: 0
@@ -4632,7 +4596,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6344285347282349979
 GameObject:
   m_ObjectHideFlags: 0
@@ -4649,7 +4612,7 @@ GameObject:
   - component: {fileID: 5839694595626713662}
   m_Layer: 11
   m_Name: Cube (158)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4756,7 +4719,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658567389361
 GameObject:
   m_ObjectHideFlags: 0
@@ -4773,7 +4735,7 @@ GameObject:
   - component: {fileID: 6502758658567389363}
   m_Layer: 11
   m_Name: Cube (73)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4880,7 +4842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658583142703
 GameObject:
   m_ObjectHideFlags: 0
@@ -4897,7 +4858,7 @@ GameObject:
   - component: {fileID: 6502758658583142673}
   m_Layer: 11
   m_Name: Cube (88)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5004,7 +4965,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658588081174
 GameObject:
   m_ObjectHideFlags: 0
@@ -5021,7 +4981,7 @@ GameObject:
   - component: {fileID: 6502758658588081176}
   m_Layer: 11
   m_Name: Cube (68)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5128,7 +5088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658605944220
 GameObject:
   m_ObjectHideFlags: 0
@@ -5145,7 +5104,7 @@ GameObject:
   - component: {fileID: 6502758658605944222}
   m_Layer: 11
   m_Name: Cube (29)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5252,7 +5211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658608795247
 GameObject:
   m_ObjectHideFlags: 0
@@ -5269,7 +5227,7 @@ GameObject:
   - component: {fileID: 6502758658608795217}
   m_Layer: 11
   m_Name: Cube (50)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5376,7 +5334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658626168758
 GameObject:
   m_ObjectHideFlags: 0
@@ -5393,7 +5350,7 @@ GameObject:
   - component: {fileID: 6502758658626168760}
   m_Layer: 11
   m_Name: Cube (149)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5500,7 +5457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658646404538
 GameObject:
   m_ObjectHideFlags: 0
@@ -5517,7 +5473,7 @@ GameObject:
   - component: {fileID: 6502758658646404540}
   m_Layer: 11
   m_Name: Cube (37)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5624,7 +5580,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658648129842
 GameObject:
   m_ObjectHideFlags: 0
@@ -5641,7 +5596,7 @@ GameObject:
   - component: {fileID: 6502758658648129844}
   m_Layer: 11
   m_Name: Cube (79)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5748,7 +5703,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658663509202
 GameObject:
   m_ObjectHideFlags: 0
@@ -5765,7 +5719,7 @@ GameObject:
   - component: {fileID: 6502758658663509204}
   m_Layer: 11
   m_Name: Cube (107)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5872,7 +5826,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658685962748
 GameObject:
   m_ObjectHideFlags: 0
@@ -5889,7 +5842,7 @@ GameObject:
   - component: {fileID: 6502758658685962750}
   m_Layer: 11
   m_Name: Cube (32)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5996,7 +5949,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658687399091
 GameObject:
   m_ObjectHideFlags: 0
@@ -6013,7 +5965,7 @@ GameObject:
   - component: {fileID: 6502758658687399093}
   m_Layer: 11
   m_Name: Cube (21)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6120,7 +6072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658687693682
 GameObject:
   m_ObjectHideFlags: 0
@@ -6137,7 +6088,7 @@ GameObject:
   - component: {fileID: 6502758658687693684}
   m_Layer: 11
   m_Name: Cube (16)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6244,7 +6195,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658697710797
 GameObject:
   m_ObjectHideFlags: 0
@@ -6261,7 +6211,7 @@ GameObject:
   - component: {fileID: 6502758658697710799}
   m_Layer: 11
   m_Name: Cube (118)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6368,7 +6318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658708467653
 GameObject:
   m_ObjectHideFlags: 0
@@ -6385,7 +6334,7 @@ GameObject:
   - component: {fileID: 6502758658708467655}
   m_Layer: 11
   m_Name: Cube (71)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6492,7 +6441,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658709886913
 GameObject:
   m_ObjectHideFlags: 0
@@ -6509,7 +6457,7 @@ GameObject:
   - component: {fileID: 6502758658709886915}
   m_Layer: 11
   m_Name: Cube (132)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6616,7 +6564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658720367432
 GameObject:
   m_ObjectHideFlags: 0
@@ -6633,7 +6580,7 @@ GameObject:
   - component: {fileID: 6502758658720367434}
   m_Layer: 11
   m_Name: Cube (46)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6740,7 +6687,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658726988683
 GameObject:
   m_ObjectHideFlags: 0
@@ -6757,7 +6703,7 @@ GameObject:
   - component: {fileID: 6502758658726988685}
   m_Layer: 11
   m_Name: Cube (99)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6864,7 +6810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658754345337
 GameObject:
   m_ObjectHideFlags: 0
@@ -6881,7 +6826,7 @@ GameObject:
   - component: {fileID: 6502758658754345339}
   m_Layer: 11
   m_Name: Cube (20)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6988,7 +6933,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658787559469
 GameObject:
   m_ObjectHideFlags: 0
@@ -7005,7 +6949,7 @@ GameObject:
   - component: {fileID: 6502758658787559471}
   m_Layer: 11
   m_Name: Cube (60)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7112,7 +7056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658805015997
 GameObject:
   m_ObjectHideFlags: 0
@@ -7129,7 +7072,7 @@ GameObject:
   - component: {fileID: 6502758658805015999}
   m_Layer: 11
   m_Name: Cube (77)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7236,7 +7179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658824691123
 GameObject:
   m_ObjectHideFlags: 0
@@ -7253,7 +7195,7 @@ GameObject:
   - component: {fileID: 6502758658824691125}
   m_Layer: 11
   m_Name: Cube (112)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7360,7 +7302,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658852766195
 GameObject:
   m_ObjectHideFlags: 0
@@ -7377,7 +7318,7 @@ GameObject:
   - component: {fileID: 6502758658852766197}
   m_Layer: 11
   m_Name: Cube (97)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7484,7 +7425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658857916597
 GameObject:
   m_ObjectHideFlags: 0
@@ -7501,7 +7441,7 @@ GameObject:
   - component: {fileID: 6502758658857916599}
   m_Layer: 11
   m_Name: Cube (92)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7608,7 +7548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658871700094
 GameObject:
   m_ObjectHideFlags: 0
@@ -7625,7 +7564,7 @@ GameObject:
   - component: {fileID: 6502758658871700064}
   m_Layer: 11
   m_Name: Cube (81)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7732,7 +7671,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658886526889
 GameObject:
   m_ObjectHideFlags: 0
@@ -7749,7 +7687,7 @@ GameObject:
   - component: {fileID: 6502758658886526891}
   m_Layer: 11
   m_Name: Cube (86)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7856,7 +7794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658899287495
 GameObject:
   m_ObjectHideFlags: 0
@@ -7873,7 +7810,7 @@ GameObject:
   - component: {fileID: 6502758658899287497}
   m_Layer: 11
   m_Name: Cube (140)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7980,7 +7917,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658899976788
 GameObject:
   m_ObjectHideFlags: 0
@@ -7997,7 +7933,7 @@ GameObject:
   - component: {fileID: 6502758658899976790}
   m_Layer: 11
   m_Name: Cube (147)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8104,7 +8040,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658903059574
 GameObject:
   m_ObjectHideFlags: 0
@@ -8121,7 +8056,7 @@ GameObject:
   - component: {fileID: 6502758658903059576}
   m_Layer: 11
   m_Name: Cube (12)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8228,7 +8163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658904768345
 GameObject:
   m_ObjectHideFlags: 0
@@ -8245,7 +8179,7 @@ GameObject:
   - component: {fileID: 6502758658904768347}
   m_Layer: 11
   m_Name: Cube (109)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8352,7 +8286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658918526115
 GameObject:
   m_ObjectHideFlags: 0
@@ -8369,7 +8302,7 @@ GameObject:
   - component: {fileID: 6502758658918526117}
   m_Layer: 11
   m_Name: Cube (131)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8476,7 +8409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658921901282
 GameObject:
   m_ObjectHideFlags: 0
@@ -8493,7 +8425,7 @@ GameObject:
   - component: {fileID: 6502758658921901284}
   m_Layer: 11
   m_Name: Cube (84)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8600,7 +8532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658923202332
 GameObject:
   m_ObjectHideFlags: 0
@@ -8617,7 +8548,7 @@ GameObject:
   - component: {fileID: 6502758658923202334}
   m_Layer: 11
   m_Name: Cube (39)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8724,7 +8655,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658923630626
 GameObject:
   m_ObjectHideFlags: 0
@@ -8741,7 +8671,7 @@ GameObject:
   - component: {fileID: 6502758658923630628}
   m_Layer: 11
   m_Name: Cube (122)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8848,7 +8778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658939282994
 GameObject:
   m_ObjectHideFlags: 0
@@ -8865,7 +8794,7 @@ GameObject:
   - component: {fileID: 6502758658939282996}
   m_Layer: 11
   m_Name: Cube (100)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8972,7 +8901,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658942235567
 GameObject:
   m_ObjectHideFlags: 0
@@ -8989,7 +8917,7 @@ GameObject:
   - component: {fileID: 6502758658942235537}
   m_Layer: 11
   m_Name: Cube (91)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9096,7 +9024,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658953627139
 GameObject:
   m_ObjectHideFlags: 0
@@ -9113,7 +9040,7 @@ GameObject:
   - component: {fileID: 6502758658953627141}
   m_Layer: 11
   m_Name: Cube (14)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9220,7 +9147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658962953983
 GameObject:
   m_ObjectHideFlags: 0
@@ -9237,7 +9163,7 @@ GameObject:
   - component: {fileID: 6502758658962953953}
   m_Layer: 11
   m_Name: Cube (54)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9344,7 +9270,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658990440274
 GameObject:
   m_ObjectHideFlags: 0
@@ -9361,7 +9286,7 @@ GameObject:
   - component: {fileID: 6502758658990440276}
   m_Layer: 11
   m_Name: Cube (98)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9468,7 +9393,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758658999279603
 GameObject:
   m_ObjectHideFlags: 0
@@ -9485,7 +9409,7 @@ GameObject:
   - component: {fileID: 6502758658999279605}
   m_Layer: 11
   m_Name: Cube (133)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9592,7 +9516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659005759090
 GameObject:
   m_ObjectHideFlags: 0
@@ -9609,7 +9532,7 @@ GameObject:
   - component: {fileID: 6502758659005759092}
   m_Layer: 11
   m_Name: Cube (120)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9716,7 +9639,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659024437041
 GameObject:
   m_ObjectHideFlags: 0
@@ -9733,7 +9655,7 @@ GameObject:
   - component: {fileID: 6502758659024437043}
   m_Layer: 11
   m_Name: Cube (30)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9840,7 +9762,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659037953640
 GameObject:
   m_ObjectHideFlags: 0
@@ -9857,7 +9778,7 @@ GameObject:
   - component: {fileID: 6502758659037953642}
   m_Layer: 11
   m_Name: Cube (150)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9964,7 +9885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659052661293
 GameObject:
   m_ObjectHideFlags: 0
@@ -9981,7 +9901,7 @@ GameObject:
   - component: {fileID: 6502758659052661295}
   m_Layer: 11
   m_Name: Cube (135)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10088,7 +10008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659066702930
 GameObject:
   m_ObjectHideFlags: 0
@@ -10105,7 +10024,7 @@ GameObject:
   - component: {fileID: 6502758659066702932}
   m_Layer: 11
   m_Name: Cube (42)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10212,7 +10131,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659109804802
 GameObject:
   m_ObjectHideFlags: 0
@@ -10229,7 +10147,7 @@ GameObject:
   - component: {fileID: 6502758659109804804}
   m_Layer: 11
   m_Name: Cube (8)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10336,7 +10254,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659113264853
 GameObject:
   m_ObjectHideFlags: 0
@@ -10353,7 +10270,7 @@ GameObject:
   - component: {fileID: 6502758659113264855}
   m_Layer: 11
   m_Name: Cube (36)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10460,7 +10377,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659121563098
 GameObject:
   m_ObjectHideFlags: 0
@@ -10510,7 +10426,7 @@ GameObject:
   - component: {fileID: 6502758659133775525}
   m_Layer: 11
   m_Name: Cube (129)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10617,7 +10533,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659134214612
 GameObject:
   m_ObjectHideFlags: 0
@@ -10634,7 +10549,7 @@ GameObject:
   - component: {fileID: 6502758659134214614}
   m_Layer: 11
   m_Name: Cube (53)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10741,7 +10656,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659183778425
 GameObject:
   m_ObjectHideFlags: 0
@@ -10758,7 +10672,7 @@ GameObject:
   - component: {fileID: 6502758659183778427}
   m_Layer: 11
   m_Name: Cube (83)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10865,7 +10779,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659187988530
 GameObject:
   m_ObjectHideFlags: 0
@@ -10882,7 +10795,7 @@ GameObject:
   - component: {fileID: 6502758659187988532}
   m_Layer: 11
   m_Name: Cube (45)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10989,7 +10902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659194564673
 GameObject:
   m_ObjectHideFlags: 0
@@ -11080,7 +10992,7 @@ GameObject:
   - component: {fileID: 6502758659202090784}
   m_Layer: 11
   m_Name: Cube (6)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11187,7 +11099,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659212631680
 GameObject:
   m_ObjectHideFlags: 0
@@ -11204,7 +11115,7 @@ GameObject:
   - component: {fileID: 6502758659212631682}
   m_Layer: 11
   m_Name: Cube (66)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11311,7 +11222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659224270772
 GameObject:
   m_ObjectHideFlags: 0
@@ -11328,7 +11238,7 @@ GameObject:
   - component: {fileID: 6502758659224270774}
   m_Layer: 11
   m_Name: Cube (85)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11435,7 +11345,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659235237905
 GameObject:
   m_ObjectHideFlags: 0
@@ -11452,7 +11361,7 @@ GameObject:
   - component: {fileID: 6502758659235237907}
   m_Layer: 11
   m_Name: Cube (104)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11559,7 +11468,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659252751777
 GameObject:
   m_ObjectHideFlags: 0
@@ -11576,7 +11484,7 @@ GameObject:
   - component: {fileID: 6502758659252751779}
   m_Layer: 11
   m_Name: Cube (69)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11683,7 +11591,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659254955004
 GameObject:
   m_ObjectHideFlags: 0
@@ -11700,7 +11607,7 @@ GameObject:
   - component: {fileID: 6502758659254955006}
   m_Layer: 11
   m_Name: Cube (141)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11807,7 +11714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659258872950
 GameObject:
   m_ObjectHideFlags: 0
@@ -11824,7 +11730,7 @@ GameObject:
   - component: {fileID: 6502758659258872952}
   m_Layer: 11
   m_Name: Cube (90)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11931,7 +11837,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659258898699
 GameObject:
   m_ObjectHideFlags: 0
@@ -11948,7 +11853,7 @@ GameObject:
   - component: {fileID: 6502758659258898701}
   m_Layer: 11
   m_Name: Cube (44)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12055,7 +11960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659263638147
 GameObject:
   m_ObjectHideFlags: 0
@@ -12072,7 +11976,7 @@ GameObject:
   - component: {fileID: 6502758659263638149}
   m_Layer: 11
   m_Name: Cube (33)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12179,7 +12083,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659276603393
 GameObject:
   m_ObjectHideFlags: 0
@@ -12196,7 +12099,7 @@ GameObject:
   - component: {fileID: 6502758659276603395}
   m_Layer: 11
   m_Name: Cube (59)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12303,7 +12206,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659279083926
 GameObject:
   m_ObjectHideFlags: 0
@@ -12320,7 +12222,7 @@ GameObject:
   - component: {fileID: 6502758659279083928}
   m_Layer: 11
   m_Name: Cube (116)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12427,7 +12329,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659291114725
 GameObject:
   m_ObjectHideFlags: 0
@@ -12444,7 +12345,7 @@ GameObject:
   - component: {fileID: 6502758659291114727}
   m_Layer: 11
   m_Name: Cube (80)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12551,7 +12452,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659301710369
 GameObject:
   m_ObjectHideFlags: 0
@@ -12568,7 +12468,7 @@ GameObject:
   - component: {fileID: 6502758659301710371}
   m_Layer: 11
   m_Name: Cube (142)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12675,7 +12575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659346368015
 GameObject:
   m_ObjectHideFlags: 0
@@ -12692,7 +12591,7 @@ GameObject:
   - component: {fileID: 6502758659346364913}
   m_Layer: 11
   m_Name: Cube (72)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12799,7 +12698,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659352526584
 GameObject:
   m_ObjectHideFlags: 0
@@ -12816,7 +12714,7 @@ GameObject:
   - component: {fileID: 6502758659352526586}
   m_Layer: 11
   m_Name: Cube (78)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12923,7 +12821,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659357011860
 GameObject:
   m_ObjectHideFlags: 0
@@ -12940,7 +12837,7 @@ GameObject:
   - component: {fileID: 6502758659357011862}
   m_Layer: 11
   m_Name: Cube (7)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13047,7 +12944,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659371143293
 GameObject:
   m_ObjectHideFlags: 0
@@ -13064,7 +12960,7 @@ GameObject:
   - component: {fileID: 6502758659371143295}
   m_Layer: 11
   m_Name: Cube (127)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13171,7 +13067,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659388667105
 GameObject:
   m_ObjectHideFlags: 0
@@ -13188,7 +13083,7 @@ GameObject:
   - component: {fileID: 6502758659388667107}
   m_Layer: 11
   m_Name: Cube (40)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13295,7 +13190,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659392007022
 GameObject:
   m_ObjectHideFlags: 0
@@ -13312,7 +13206,7 @@ GameObject:
   - component: {fileID: 6502758659392006992}
   m_Layer: 11
   m_Name: Cube (11)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13419,7 +13313,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659419486813
 GameObject:
   m_ObjectHideFlags: 0
@@ -13436,7 +13329,7 @@ GameObject:
   - component: {fileID: 6502758659419486815}
   m_Layer: 11
   m_Name: Cube (41)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13543,7 +13436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659423721683
 GameObject:
   m_ObjectHideFlags: 0
@@ -13560,7 +13452,7 @@ GameObject:
   - component: {fileID: 6502758659423721685}
   m_Layer: 11
   m_Name: Cube (113)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13667,7 +13559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659433037649
 GameObject:
   m_ObjectHideFlags: 0
@@ -13684,7 +13575,7 @@ GameObject:
   - component: {fileID: 6502758659433037651}
   m_Layer: 11
   m_Name: Cube (148)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13791,7 +13682,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659436586849
 GameObject:
   m_ObjectHideFlags: 0
@@ -13808,7 +13698,7 @@ GameObject:
   - component: {fileID: 6502758659436586851}
   m_Layer: 11
   m_Name: Cube (126)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13915,7 +13805,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659437184433
 GameObject:
   m_ObjectHideFlags: 0
@@ -14113,7 +14002,7 @@ GameObject:
   - component: {fileID: 6502758659458374492}
   m_Layer: 11
   m_Name: Cube (2)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14220,7 +14109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659476412128
 GameObject:
   m_ObjectHideFlags: 0
@@ -14237,7 +14125,7 @@ GameObject:
   - component: {fileID: 6502758659476412130}
   m_Layer: 11
   m_Name: Cube (27)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14344,7 +14232,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659483730688
 GameObject:
   m_ObjectHideFlags: 0
@@ -14361,7 +14248,7 @@ GameObject:
   - component: {fileID: 6502758659483730690}
   m_Layer: 11
   m_Name: Cube (89)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14468,7 +14355,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659533555298
 GameObject:
   m_ObjectHideFlags: 0
@@ -14485,7 +14371,7 @@ GameObject:
   - component: {fileID: 6502758659533555300}
   m_Layer: 11
   m_Name: Cube (10)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14592,7 +14478,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659536225825
 GameObject:
   m_ObjectHideFlags: 0
@@ -14609,7 +14494,7 @@ GameObject:
   - component: {fileID: 6502758659536225827}
   m_Layer: 11
   m_Name: Cube (4)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14716,7 +14601,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659549948627
 GameObject:
   m_ObjectHideFlags: 0
@@ -14733,7 +14617,7 @@ GameObject:
   - component: {fileID: 6502758659549948629}
   m_Layer: 11
   m_Name: Cube (57)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14840,7 +14724,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659554135061
 GameObject:
   m_ObjectHideFlags: 0
@@ -14857,7 +14740,7 @@ GameObject:
   - component: {fileID: 6502758659554135063}
   m_Layer: 11
   m_Name: Cube (24)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14964,7 +14847,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659565592160
 GameObject:
   m_ObjectHideFlags: 0
@@ -14981,7 +14863,7 @@ GameObject:
   - component: {fileID: 6502758659565592162}
   m_Layer: 11
   m_Name: Cube (5)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15088,7 +14970,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659585503383
 GameObject:
   m_ObjectHideFlags: 0
@@ -15105,7 +14986,7 @@ GameObject:
   - component: {fileID: 6502758659585503385}
   m_Layer: 11
   m_Name: Cube (115)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15212,7 +15093,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659640373386
 GameObject:
   m_ObjectHideFlags: 0
@@ -15229,7 +15109,7 @@ GameObject:
   - component: {fileID: 6502758659640373388}
   m_Layer: 11
   m_Name: Cube (145)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15336,7 +15216,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659650980282
 GameObject:
   m_ObjectHideFlags: 0
@@ -15353,7 +15232,7 @@ GameObject:
   - component: {fileID: 6502758659650980284}
   m_Layer: 11
   m_Name: Cube (61)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15460,7 +15339,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659674786847
 GameObject:
   m_ObjectHideFlags: 0
@@ -15477,7 +15355,7 @@ GameObject:
   - component: {fileID: 6502758659674786817}
   m_Layer: 11
   m_Name: Cube (70)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15584,7 +15462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659675686299
 GameObject:
   m_ObjectHideFlags: 0
@@ -15601,7 +15478,7 @@ GameObject:
   - component: {fileID: 6502758659675686301}
   m_Layer: 11
   m_Name: Cube (142)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15708,7 +15585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659689205273
 GameObject:
   m_ObjectHideFlags: 0
@@ -15725,7 +15601,7 @@ GameObject:
   - component: {fileID: 6502758659689205275}
   m_Layer: 11
   m_Name: Cube (124)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15832,7 +15708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659731392651
 GameObject:
   m_ObjectHideFlags: 0
@@ -15849,7 +15724,7 @@ GameObject:
   - component: {fileID: 6502758659731392653}
   m_Layer: 11
   m_Name: Cube (125)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15956,7 +15831,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659740453144
 GameObject:
   m_ObjectHideFlags: 0
@@ -15973,7 +15847,7 @@ GameObject:
   - component: {fileID: 6502758659740453146}
   m_Layer: 11
   m_Name: Cube (51)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16080,7 +15954,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659741475250
 GameObject:
   m_ObjectHideFlags: 0
@@ -16097,7 +15970,7 @@ GameObject:
   - component: {fileID: 6502758659741475252}
   m_Layer: 11
   m_Name: Cube (106)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16204,7 +16077,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659744248105
 GameObject:
   m_ObjectHideFlags: 0
@@ -16221,7 +16093,7 @@ GameObject:
   - component: {fileID: 6502758659744248107}
   m_Layer: 11
   m_Name: Cube (95)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16328,7 +16200,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659748035991
 GameObject:
   m_ObjectHideFlags: 0
@@ -16345,7 +16216,7 @@ GameObject:
   - component: {fileID: 6502758659748035993}
   m_Layer: 11
   m_Name: Cube (149)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16452,7 +16323,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659752443430
 GameObject:
   m_ObjectHideFlags: 0
@@ -16469,7 +16339,7 @@ GameObject:
   - component: {fileID: 6502758659752443432}
   m_Layer: 11
   m_Name: Cube (145)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16576,7 +16446,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659763595954
 GameObject:
   m_ObjectHideFlags: 0
@@ -16593,7 +16462,7 @@ GameObject:
   - component: {fileID: 6502758659763595956}
   m_Layer: 11
   m_Name: Cube (22)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16700,7 +16569,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659768669097
 GameObject:
   m_ObjectHideFlags: 0
@@ -16717,7 +16585,7 @@ GameObject:
   - component: {fileID: 6502758659768669099}
   m_Layer: 11
   m_Name: Cube (19)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16824,7 +16692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659778784170
 GameObject:
   m_ObjectHideFlags: 0
@@ -16841,7 +16708,7 @@ GameObject:
   - component: {fileID: 6502758659778784172}
   m_Layer: 11
   m_Name: Cube (93)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16948,7 +16815,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659785448774
 GameObject:
   m_ObjectHideFlags: 0
@@ -16965,7 +16831,7 @@ GameObject:
   - component: {fileID: 6502758659785448776}
   m_Layer: 11
   m_Name: Cube (130)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17072,7 +16938,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659790025199
 GameObject:
   m_ObjectHideFlags: 0
@@ -17089,7 +16954,7 @@ GameObject:
   - component: {fileID: 6502758659790025169}
   m_Layer: 11
   m_Name: Cube (76)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17196,7 +17061,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659806862943
 GameObject:
   m_ObjectHideFlags: 0
@@ -17213,7 +17077,7 @@ GameObject:
   - component: {fileID: 6502758659806862913}
   m_Layer: 11
   m_Name: Cube (140)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17320,7 +17184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659834847706
 GameObject:
   m_ObjectHideFlags: 0
@@ -17337,7 +17200,7 @@ GameObject:
   - component: {fileID: 6502758659834847708}
   m_Layer: 11
   m_Name: Cube (94)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17444,7 +17307,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659837958537
 GameObject:
   m_ObjectHideFlags: 0
@@ -17461,7 +17323,7 @@ GameObject:
   - component: {fileID: 6502758659837958539}
   m_Layer: 11
   m_Name: Cube (34)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17568,7 +17430,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659845781117
 GameObject:
   m_ObjectHideFlags: 0
@@ -17585,7 +17446,7 @@ GameObject:
   - component: {fileID: 6502758659845781119}
   m_Layer: 11
   m_Name: Cube (108)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17692,7 +17553,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659856906068
 GameObject:
   m_ObjectHideFlags: 0
@@ -17709,7 +17569,7 @@ GameObject:
   - component: {fileID: 6502758659856906070}
   m_Layer: 11
   m_Name: Cube (52)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17816,7 +17676,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659904224772
 GameObject:
   m_ObjectHideFlags: 0
@@ -17833,7 +17692,7 @@ GameObject:
   - component: {fileID: 6502758659904224774}
   m_Layer: 11
   m_Name: Cube (74)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17940,7 +17799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659912192338
 GameObject:
   m_ObjectHideFlags: 0
@@ -17957,7 +17815,7 @@ GameObject:
   - component: {fileID: 6502758659912192340}
   m_Layer: 11
   m_Name: Cube (138)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18064,7 +17922,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659934947987
 GameObject:
   m_ObjectHideFlags: 0
@@ -18081,7 +17938,7 @@ GameObject:
   - component: {fileID: 6502758659934947989}
   m_Layer: 11
   m_Name: Cube (64)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18188,7 +18045,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659943839467
 GameObject:
   m_ObjectHideFlags: 0
@@ -18205,7 +18061,7 @@ GameObject:
   - component: {fileID: 6502758659943839469}
   m_Layer: 11
   m_Name: Cube (143)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18312,7 +18168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659956136998
 GameObject:
   m_ObjectHideFlags: 0
@@ -18329,7 +18184,7 @@ GameObject:
   - component: {fileID: 6502758659956137000}
   m_Layer: 11
   m_Name: Cube (146)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18436,7 +18291,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659963037214
 GameObject:
   m_ObjectHideFlags: 0
@@ -18453,7 +18307,7 @@ GameObject:
   - component: {fileID: 6502758659963037184}
   m_Layer: 11
   m_Name: Cube (114)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18560,7 +18414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659987856083
 GameObject:
   m_ObjectHideFlags: 0
@@ -18577,7 +18430,7 @@ GameObject:
   - component: {fileID: 6502758659987856085}
   m_Layer: 11
   m_Name: Cube (15)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18684,7 +18537,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659989399181
 GameObject:
   m_ObjectHideFlags: 0
@@ -18701,7 +18553,7 @@ GameObject:
   - component: {fileID: 6502758659989399183}
   m_Layer: 11
   m_Name: Cube (9)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18808,7 +18660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758659992383229
 GameObject:
   m_ObjectHideFlags: 0
@@ -18825,7 +18676,7 @@ GameObject:
   - component: {fileID: 6502758659992383231}
   m_Layer: 11
   m_Name: Cube (144)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18932,7 +18783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660009804310
 GameObject:
   m_ObjectHideFlags: 0
@@ -18949,7 +18799,7 @@ GameObject:
   - component: {fileID: 6502758660009804312}
   m_Layer: 11
   m_Name: Cube (96)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19056,7 +18906,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660012829806
 GameObject:
   m_ObjectHideFlags: 0
@@ -19073,7 +18922,7 @@ GameObject:
   - component: {fileID: 6502758660012829776}
   m_Layer: 11
   m_Name: Cube (47)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19180,7 +19029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660019113344
 GameObject:
   m_ObjectHideFlags: 0
@@ -19197,7 +19045,7 @@ GameObject:
   - component: {fileID: 6502758660019113346}
   m_Layer: 11
   m_Name: Cube (67)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19304,7 +19152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660023517605
 GameObject:
   m_ObjectHideFlags: 0
@@ -19321,7 +19168,7 @@ GameObject:
   - component: {fileID: 6502758660023517607}
   m_Layer: 11
   m_Name: Cube (103)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19428,7 +19275,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660089878964
 GameObject:
   m_ObjectHideFlags: 0
@@ -19445,7 +19291,7 @@ GameObject:
   - component: {fileID: 6502758660089878966}
   m_Layer: 11
   m_Name: Cube (141)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19552,7 +19398,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660091229673
 GameObject:
   m_ObjectHideFlags: 0
@@ -19569,7 +19414,7 @@ GameObject:
   - component: {fileID: 6502758660091229675}
   m_Layer: 11
   m_Name: Cube (49)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19676,7 +19521,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660097774646
 GameObject:
   m_ObjectHideFlags: 0
@@ -19693,7 +19537,7 @@ GameObject:
   - component: {fileID: 6502758660097774648}
   m_Layer: 11
   m_Name: Cube (134)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19800,7 +19644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660099809653
 GameObject:
   m_ObjectHideFlags: 0
@@ -19817,7 +19660,7 @@ GameObject:
   - component: {fileID: 6502758660099809655}
   m_Layer: 11
   m_Name: Cube (137)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19924,7 +19767,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660120771825
 GameObject:
   m_ObjectHideFlags: 0
@@ -19941,7 +19783,7 @@ GameObject:
   - component: {fileID: 6502758660120771827}
   m_Layer: 11
   m_Name: Cube (13)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20048,7 +19890,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660157767737
 GameObject:
   m_ObjectHideFlags: 0
@@ -20065,7 +19906,7 @@ GameObject:
   - component: {fileID: 6502758660157767739}
   m_Layer: 11
   m_Name: Cube (102)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20172,7 +20013,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660159721624
 GameObject:
   m_ObjectHideFlags: 0
@@ -20189,7 +20029,7 @@ GameObject:
   - component: {fileID: 6502758660159721626}
   m_Layer: 11
   m_Name: Cube (48)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20296,7 +20136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660172905038
 GameObject:
   m_ObjectHideFlags: 0
@@ -20313,7 +20152,7 @@ GameObject:
   - component: {fileID: 6502758660172905008}
   m_Layer: 11
   m_Name: Cube (146)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20420,7 +20259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660175440887
 GameObject:
   m_ObjectHideFlags: 0
@@ -20437,7 +20275,7 @@ GameObject:
   - component: {fileID: 6502758660175440889}
   m_Layer: 11
   m_Name: Cube (31)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20544,7 +20382,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660177398517
 GameObject:
   m_ObjectHideFlags: 0
@@ -20561,7 +20398,7 @@ GameObject:
   - component: {fileID: 6502758660177398519}
   m_Layer: 11
   m_Name: Cube (55)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20668,7 +20505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660182676692
 GameObject:
   m_ObjectHideFlags: 0
@@ -20685,7 +20521,7 @@ GameObject:
   - component: {fileID: 6502758660182676694}
   m_Layer: 11
   m_Name: Cube (139)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20792,7 +20628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660187099459
 GameObject:
   m_ObjectHideFlags: 0
@@ -20809,7 +20644,7 @@ GameObject:
   - component: {fileID: 6502758660187099461}
   m_Layer: 11
   m_Name: Cube (75)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20916,7 +20751,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660204676399
 GameObject:
   m_ObjectHideFlags: 0
@@ -20933,7 +20767,7 @@ GameObject:
   - component: {fileID: 6502758660204676369}
   m_Layer: 11
   m_Name: Cube (26)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21040,7 +20874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660206790969
 GameObject:
   m_ObjectHideFlags: 0
@@ -21057,7 +20890,7 @@ GameObject:
   - component: {fileID: 6502758660206790971}
   m_Layer: 11
   m_Name: Cube (119)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21164,7 +20997,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660226018139
 GameObject:
   m_ObjectHideFlags: 0
@@ -21181,7 +21013,7 @@ GameObject:
   - component: {fileID: 6502758660226018141}
   m_Layer: 11
   m_Name: Cube (62)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21288,7 +21120,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660240235644
 GameObject:
   m_ObjectHideFlags: 0
@@ -21305,7 +21136,7 @@ GameObject:
   - component: {fileID: 6502758660240235646}
   m_Layer: 11
   m_Name: Cube (25)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21412,7 +21243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660244663023
 GameObject:
   m_ObjectHideFlags: 0
@@ -21429,7 +21259,7 @@ GameObject:
   - component: {fileID: 6502758660244662993}
   m_Layer: 11
   m_Name: Cube (17)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21536,7 +21366,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660250707047
 GameObject:
   m_ObjectHideFlags: 0
@@ -21553,7 +21382,7 @@ GameObject:
   - component: {fileID: 6502758660250707049}
   m_Layer: 11
   m_Name: Cube (117)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21660,7 +21489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660253168212
 GameObject:
   m_ObjectHideFlags: 0
@@ -21677,7 +21505,7 @@ GameObject:
   - component: {fileID: 6502758660253168214}
   m_Layer: 11
   m_Name: Cube (58)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21784,7 +21612,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660266689312
 GameObject:
   m_ObjectHideFlags: 0
@@ -21801,7 +21628,7 @@ GameObject:
   - component: {fileID: 6502758660266689314}
   m_Layer: 11
   m_Name: Cube (87)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21908,7 +21735,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660287214829
 GameObject:
   m_ObjectHideFlags: 0
@@ -21925,7 +21751,7 @@ GameObject:
   - component: {fileID: 6502758660287214831}
   m_Layer: 11
   m_Name: Cube (3)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22032,7 +21858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660292973499
 GameObject:
   m_ObjectHideFlags: 0
@@ -22049,7 +21874,7 @@ GameObject:
   - component: {fileID: 6502758660292973501}
   m_Layer: 11
   m_Name: Cube (23)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22156,7 +21981,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660331248998
 GameObject:
   m_ObjectHideFlags: 0
@@ -22173,7 +21997,7 @@ GameObject:
   - component: {fileID: 6502758660331249000}
   m_Layer: 11
   m_Name: Cube (101)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22280,7 +22104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660340228214
 GameObject:
   m_ObjectHideFlags: 0
@@ -22297,7 +22120,7 @@ GameObject:
   - component: {fileID: 6502758660340228216}
   m_Layer: 11
   m_Name: Cube (128)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22404,7 +22227,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660356364503
 GameObject:
   m_ObjectHideFlags: 0
@@ -22421,7 +22243,7 @@ GameObject:
   - component: {fileID: 6502758660356364505}
   m_Layer: 11
   m_Name: Cube (82)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22528,7 +22350,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660377583382
 GameObject:
   m_ObjectHideFlags: 0
@@ -22545,7 +22366,7 @@ GameObject:
   - component: {fileID: 6502758660377583384}
   m_Layer: 11
   m_Name: Cube (110)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22652,7 +22473,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660393638537
 GameObject:
   m_ObjectHideFlags: 0
@@ -22669,7 +22489,7 @@ GameObject:
   - component: {fileID: 6502758660393638539}
   m_Layer: 11
   m_Name: Cube (35)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22776,7 +22596,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660403527601
 GameObject:
   m_ObjectHideFlags: 0
@@ -22793,7 +22612,7 @@ GameObject:
   - component: {fileID: 6502758660403527603}
   m_Layer: 11
   m_Name: Cube (121)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22900,7 +22719,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660421159231
 GameObject:
   m_ObjectHideFlags: 0
@@ -22917,7 +22735,7 @@ GameObject:
   - component: {fileID: 6502758660421159201}
   m_Layer: 11
   m_Name: Cube (143)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23024,7 +22842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660434888598
 GameObject:
   m_ObjectHideFlags: 0
@@ -23041,7 +22858,7 @@ GameObject:
   - component: {fileID: 6502758660434888600}
   m_Layer: 11
   m_Name: Cube (38)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23148,7 +22965,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660439993823
 GameObject:
   m_ObjectHideFlags: 0
@@ -23165,7 +22981,7 @@ GameObject:
   - component: {fileID: 6502758660439993793}
   m_Layer: 11
   m_Name: Cube (144)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23272,7 +23088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660461249015
 GameObject:
   m_ObjectHideFlags: 0
@@ -23289,7 +23104,7 @@ GameObject:
   - component: {fileID: 6502758660461249017}
   m_Layer: 11
   m_Name: Cube (150)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23396,7 +23211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660472504600
 GameObject:
   m_ObjectHideFlags: 0
@@ -23413,7 +23227,7 @@ GameObject:
   - component: {fileID: 6502758660472504602}
   m_Layer: 11
   m_Name: Cube (56)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23520,7 +23334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660530518940
 GameObject:
   m_ObjectHideFlags: 0
@@ -23537,7 +23350,7 @@ GameObject:
   - component: {fileID: 6502758660530518942}
   m_Layer: 11
   m_Name: Cube (65)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23644,7 +23457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660555923433
 GameObject:
   m_ObjectHideFlags: 0
@@ -23661,7 +23473,7 @@ GameObject:
   - component: {fileID: 6502758660555923435}
   m_Layer: 11
   m_Name: Cube (28)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23768,7 +23580,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660557815158
 GameObject:
   m_ObjectHideFlags: 0
@@ -23785,7 +23596,7 @@ GameObject:
   - component: {fileID: 6502758660557815160}
   m_Layer: 11
   m_Name: Cube (63)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23892,7 +23703,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660570526361
 GameObject:
   m_ObjectHideFlags: 0
@@ -23909,7 +23719,7 @@ GameObject:
   - component: {fileID: 6502758660570526363}
   m_Layer: 11
   m_Name: Cube (148)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24016,7 +23826,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660592606582
 GameObject:
   m_ObjectHideFlags: 0
@@ -24033,7 +23842,7 @@ GameObject:
   - component: {fileID: 6502758660592606584}
   m_Layer: 11
   m_Name: Cube (136)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24140,7 +23949,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660595590932
 GameObject:
   m_ObjectHideFlags: 0
@@ -24157,7 +23965,7 @@ GameObject:
   - component: {fileID: 6502758660595590934}
   m_Layer: 11
   m_Name: Cube (43)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24264,7 +24072,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660607373658
 GameObject:
   m_ObjectHideFlags: 0
@@ -24281,7 +24088,7 @@ GameObject:
   - component: {fileID: 6502758660607373660}
   m_Layer: 11
   m_Name: Cube (111)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24388,7 +24195,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660622466254
 GameObject:
   m_ObjectHideFlags: 0
@@ -24405,7 +24211,7 @@ GameObject:
   - component: {fileID: 6502758660622466224}
   m_Layer: 11
   m_Name: Cube (18)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24512,7 +24318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660638537403
 GameObject:
   m_ObjectHideFlags: 0
@@ -24529,7 +24334,7 @@ GameObject:
   - component: {fileID: 6502758660638537405}
   m_Layer: 11
   m_Name: Cube (1)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24636,7 +24441,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660676979986
 GameObject:
   m_ObjectHideFlags: 0
@@ -24653,7 +24457,7 @@ GameObject:
   - component: {fileID: 6502758660676979988}
   m_Layer: 11
   m_Name: Cube (147)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24760,7 +24564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660697786921
 GameObject:
   m_ObjectHideFlags: 0
@@ -24777,7 +24580,7 @@ GameObject:
   - component: {fileID: 6502758660697786923}
   m_Layer: 11
   m_Name: Cube (105)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24884,7 +24687,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6502758660706461020
 GameObject:
   m_ObjectHideFlags: 0
@@ -24901,7 +24703,7 @@ GameObject:
   - component: {fileID: 6502758660706461022}
   m_Layer: 11
   m_Name: Cube (123)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25008,7 +24810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6510048953181008350
 GameObject:
   m_ObjectHideFlags: 0
@@ -25025,7 +24826,7 @@ GameObject:
   - component: {fileID: 739933155381085507}
   m_Layer: 11
   m_Name: Cube (152)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25132,7 +24933,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &6632992666364535059
 GameObject:
   m_ObjectHideFlags: 0
@@ -25256,7 +25056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &7346687997875742921
 GameObject:
   m_ObjectHideFlags: 0
@@ -25273,7 +25072,7 @@ GameObject:
   - component: {fileID: 5787285229945512051}
   m_Layer: 11
   m_Name: Cube (177)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25380,7 +25179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &7350272590319744535
 GameObject:
   m_ObjectHideFlags: 0
@@ -25397,7 +25195,7 @@ GameObject:
   - component: {fileID: 3424717675156344251}
   m_Layer: 11
   m_Name: Cube (155)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25504,7 +25302,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &7426491729136747904
 GameObject:
   m_ObjectHideFlags: 0
@@ -25521,7 +25318,7 @@ GameObject:
   - component: {fileID: 6432522921714955108}
   m_Layer: 11
   m_Name: Cube (151)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25628,7 +25425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &7921790887239214248
 GameObject:
   m_ObjectHideFlags: 0
@@ -25645,7 +25441,7 @@ GameObject:
   - component: {fileID: 3292304331234616650}
   m_Layer: 11
   m_Name: Cube (173)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25752,7 +25548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &8201491039153837709
 GameObject:
   m_ObjectHideFlags: 0
@@ -25769,7 +25564,7 @@ GameObject:
   - component: {fileID: 547423503827484119}
   m_Layer: 11
   m_Name: Cube (154)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25876,7 +25671,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &8436694255224063090
 GameObject:
   m_ObjectHideFlags: 0
@@ -26000,7 +25794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &8482305722169723659
 GameObject:
   m_ObjectHideFlags: 0
@@ -26017,7 +25810,7 @@ GameObject:
   - component: {fileID: 4298531510758410144}
   m_Layer: 11
   m_Name: Cube (156)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26124,7 +25917,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &8681449792368958986
 GameObject:
   m_ObjectHideFlags: 0
@@ -26141,7 +25933,7 @@ GameObject:
   - component: {fileID: 999222975834867702}
   m_Layer: 11
   m_Name: Cube (165)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26248,7 +26040,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0
 --- !u!1 &9077240723383791145
 GameObject:
   m_ObjectHideFlags: 0
@@ -26265,7 +26056,7 @@ GameObject:
   - component: {fileID: 1302881301542667333}
   m_Layer: 11
   m_Name: Cube (163)
-  m_TagString: Untagged
+  m_TagString: InteractableObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26372,4 +26163,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc3ca3972ab998a42beb5d69f8e43647, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isObstacle: 0

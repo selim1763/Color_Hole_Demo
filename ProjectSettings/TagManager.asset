@@ -9,6 +9,8 @@ TagManager:
   - GameManager
   - HoleTrigger
   - Obstacle
+  - InteractableObject
+  - FallingObject
   layers:
   - Default
   - TransparentFX
