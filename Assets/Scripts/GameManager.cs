@@ -41,9 +41,9 @@ public class GameManager : MonoBehaviour
     private int objectCount;
 
     private int _CurrentLevel = 1;
-    public int CurrentLevel 
-    { 
-        get { return _CurrentLevel; } 
+    public int CurrentLevel
+    {
+        get { return _CurrentLevel; }
         private set { _CurrentLevel = value; }
     }
 
@@ -130,7 +130,7 @@ public class GameManager : MonoBehaviour
 
     public void OnObjectFall(bool isObstacle)
     {
-        if(!IsReady)
+        if (!IsReady)
         {
             return;
         }
@@ -162,7 +162,7 @@ public class GameManager : MonoBehaviour
 
             IsReady = true;
         }
-        else if(currentStage == 2)
+        else if (currentStage == 2)
         {
             StartCoroutine(OnLevelCompleted());
         }
@@ -180,16 +180,16 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator DoStageCompleteAnimations()
     {
-        holeController.transform.DOMoveZ(stage2HoleStartPoint.position.z, 1.5f).SetEase(Ease.Flash);
-        var tw = gateObject.transform.DOMoveY(0, 1.5f).SetEase(Ease.Flash);
+        holeController.transform.DOMoveZ(stage2HoleStartPoint.position.z, 1.0f).SetEase(Ease.Flash);
+        var tw = gateObject.transform.DOMoveY(0, 1.0f).SetEase(Ease.Flash);
 
         yield return tw.WaitForCompletion();
 
-        tw = holeController.transform.DOMoveX(stage2HoleStartPoint.position.x, 5.0f).SetEase(Ease.Flash);
+        tw = holeController.transform.DOMoveX(stage2HoleStartPoint.position.x, 3.0f).SetEase(Ease.Flash);
 
         yield return new WaitForSecondsRealtime(0.5f);
 
-        Camera.main.transform.DOMoveX(stage2CameraStartPoint.position.x, 5.0f).SetEase(Ease.Flash);
+        Camera.main.transform.DOMoveX(stage2CameraStartPoint.position.x, 3.0f).SetEase(Ease.Flash);
 
         yield return tw.WaitForCompletion();
     }
